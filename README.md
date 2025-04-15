@@ -46,20 +46,8 @@ A telemedicine platform designed to connect patients with certified doctors via 
 
 ---
 
-## **Live Demo**
 
-Visit the live website: [Telemedicine](https://telemedicine-mansy.vercel.app)
 
----
-
-## **Technology Stack**
-
-- **Frontend:** Next.js (with TypeScript)
-- **Backend:** Node.js, Express
-- **Mobile:** Flutter
-- **Database:** MongoDB
-- **Cloud Services:** AWS for hosting and data storage
-- **Video Conferencing:** WebRTC for seamless online consultations
 
 ---
 ## **Technologies Used (Frontend)**
@@ -93,76 +81,13 @@ Special thanks to the Telemedicine team for their dedication to building this pl
 - **Cloud Engineers:** Ensuring smooth deployment and scalability.
 - **Mobile App Team**
 
----
-### **Installation for Developers**
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/innovay.io/Telemedicine.git
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Environment Setup:**
-
-   Create a `.env` file and add necessary environment variables (API keys, database connection strings, etc.).
-
----
-
-### **Running the App**
-
-1. **Start Development Server:**
-
-   ```bash
-   npm run dev
-   ```
-
-2. **Build for Production:**
-
-   ```bash
-   npm run build
-   ```
-
----
-
-### **Telemedicine Architecture**
-
-#### **High-Level Overview**
-
-Telemedicine is built on a robust microservice architecture, enabling scalability and fault tolerance. Key components include:
-
-- **Frontend:** A responsive UI developed using Next.js and Tailwind CSS.
-- **Backend Services:** Node.js API gateway for handling authentication, booking, and medical records.
-- **Database:** MongoDB for efficient storage and retrieval of patient data.
-- **Video Conferencing:** Real-time video calls managed through WebRTC, providing low-latency communication between patients and doctors.
-
----
-
-### **Data Model Design**
-
-Telemedicine follows a modular data structure to accommodate patient-doctor interactions:
-
-- **Users (Patients, Doctors, Admins)**: Stores user profile details, including role-based access.
-- **Appointments**: Tracks bookings, appointment times, and medical summaries.
-- **Medical Records**: Securely manages patient history, prescriptions, and test results.
-
-
----   
-### **Endnote**
-
-This project was both challenging and rewarding, pushing my skills in state management, API integration, and teamwork. Looking forward to sharing more in future projects!
 
 ## **Contact Information**
 
-- **Author:** [Mahmoud Mansy](https://github.com/MMansy19)
-- **Portfolio:** [My Portfolio](https://mahmoud-mansy-portfolio.netlify.app/)
-- **Email:** [mahmoud2abdalfattah@gmail.com](mailto:mahmoud2abdalfattah@gmail.com)
-- **LinkedIn:** [Mahmoud Mansy](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- **Author:** [Madhavi Thakare](https://github.com/MadhaviTaa/)
+- **Email:** [madhavithakare270@gmail.com](mailto:madhavithakare@gmail.com)
+- **LinkedIn:** [Madhavi Thakare](www.linkedin.com/in/madhavi-thakare27)
 
 ---
 
